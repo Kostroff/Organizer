@@ -1,9 +1,5 @@
 package secretary;
 
-/**
- *
- * @author Kirill
- */
 public class ConnectFrame extends javax.swing.JFrame {
 
     /**
